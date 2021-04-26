@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <dbbarang>
+        <id>6</id>
+        <nama_barang>Gula Pasir 1 KG</nama_barang>
+        <harga_barang>14000</harga_barang>
+    </dbbarang>
+     <dbbarang>
+        <id>7</id>
+        <nama_barang>Saus ABC</nama_barang>
+        <harga_barang>6000</harga_barang>
+    </dbbarang>
+      <dbbarang>
+      <id>8</id>
+        <nama_barang>Kecap ABC</nama_barang>
+        <harga_barang>12000</harga_barang> 
+    </dbbarang>
+    <dbbarang>
+      <id>9</id>
+        <nama_barang>Royco Ayam</nama_barang>
+        <harga_barang>5000</harga_barang> 
+    </dbbarang>
+    <dbbarang>
+      <id>10</id>
+        <nama_barang>Masako Sapi</nama_barang>
+        <harga_barang>13500</harga_barang> 
+    </dbbarang>
+</data>
